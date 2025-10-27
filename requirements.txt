@@ -1,0 +1,8 @@
+flask
+pandas
+requests
+watchdog
+plotly
+folium
+scikit-learn
+matplotlib
